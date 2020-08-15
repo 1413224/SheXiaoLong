@@ -1,0 +1,37 @@
+1、多开分身大师（双开类）   产品调研 开发预计今天完成，7.1-7.2 测试 调通  7.3上线
+
+2、去水印（功能简单、广告付费）  规划阶段
+
+3、语音转文字  竞品：语言种子
+
+4、微信聊天记录恢复
+
+5、球伴（体育）
+
+6、彩票  付费群体稳定 先免费后付费
+
+7、游戏加速器  PC端
+                                                                                                               
+
+8、蘑菇 网址：imogu.cn.com   办公软件   千图 包图   周三给产品调研
+后台连接：http://192.168.0.118/     
+http://sp.imogu.cn/            （账号：imogu    密码：w17301698527）
+
+9、设计师网站 做3D模型（游戏） 平台      内容   类似商城入驻
+竞品：
+http://www.moxingyun.com/cg/all-4-1.html  模型云
+https://www.xy-share.com/     享云网
+https://www.3dxy.com/3dmodel/1_97_0_0_0_0.html    3d学苑
+http://www.modxz.com/list-298-1.html    3D模型下载基地   （丑）
+http://www.aigei.com/3d/model/  爱给
+https://www.cgmodel.com/  机型网
+https://www.element3ds.com/  微元素
+
+知乎推荐 https://www.zhihu.com/question/24033142
+
+
+10、海外（天堂影视）
+
+11、双开数据统计后台
+
+1 、2、3、7、8、9、11比较靠前
