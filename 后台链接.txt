@@ -1,0 +1,11 @@
+第二世界团购
+网址：http://sqtgtest.hdewm.com/backend/web/index.php
+http://sqtgtest.hdewm.com/backend/web/index.php/page/home
+账号：admin
+密码：worldidc
+
+
+hishop团购
+网址：https://demo.yunstore.kuaidiantong.cn/Admin/Login
+账号：admin
+密码：inXSZxCgysvQeg2E
